@@ -1,0 +1,15 @@
+# YAML 1.2
+---
+authors:
+  -
+    family-names: Campforts
+    given-names: Benjamin
+    orcid: "https://orcid.org/0000-0001-5699-6714"
+
+cff-version: "1.1.0"
+date-released: 2021-11-30
+doi:
+license: "CC BY 4.0"
+message: "If you use this software, please cite it using these metadata."
+title: "HyLands: Hybrid Landscape evolution model"
+...

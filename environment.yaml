@@ -1,0 +1,30 @@
+# A conda environment for ESPIn lessons.
+#
+# Usage:
+#   $ conda env create --file=environment.yaml
+#   $ source activate espin
+
+name: landlab_hylands
+channels:
+  - conda-forge
+dependencies:
+  - python =3
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - notebook
+  - rasterio
+  - pytest
+  - coverage
+  - bmipy
+  - pymt >=1.1
+  - landlab >=2.0
+  - terrainbento
+  - pymt_child
+  - pymt_hydrotrend
+  - pymt_sedflux
+  - bmi-topography
+  - imageio
+  - tqdm
+  - richdem
