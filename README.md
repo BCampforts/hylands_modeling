@@ -54,4 +54,4 @@ please cite it:
 <!-- Links -->
 [badge]: https://img.shields.io/badge/CSDMS-JupyterHub-orange.svg
 [hylands]: ./tutorials/index.ipynb
-[gp-hylands]: https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fespin&urlpath=tree%2Fespin%2Flessons%2Flandlab%2Findex.ipynb&branch=main
+[gp-hylands]: https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FBCampforts%2Fhylands_modeling&urlpath=tree%2Fhylands_modeling%2Ftutorials%2Findex.ipynb&branch=master
