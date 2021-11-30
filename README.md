@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" href="https://doi.org/10.5194/gmd-13-3863-2020">
   <img src="./media/HyLands_Logo.png" alt="drawing" width="200"/>
 </p>
 
