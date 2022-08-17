@@ -48,9 +48,7 @@ released under [CC BY 4.0 and MIT licenses](./LICENSE.md).
 If you use the HyLands course material,
 please cite it:
 
-* Campforts, B., Shobe, C. M., Overeem,
-I., & Tucker, G. E. (2022). The art of landslides: How stochastic mass wasting shapes topography and influences landscape dynamics. Journal of
-Geophysical Research: Earth Surface, 127, e2022JF006745. [10.1029/2022JF006745] (https://doi.org/10.1029/2022JF006745)
+* Campforts, B., Shobe, C. M., Overeem, I., & Tucker, G. E. The art of landslides: How stochastic mass wasting shapes topography and influences landscape dynamics. Journal of Geophysical Research: Earth Surface, 127, e2022JF006745, [10.1029/2022JF006745](https://doi.org/10.1029/2022JF006745), 2022.
 
 * Campforts, B., Shobe, C. M., Steer, P., Vanmaercke, M., Lague, D., and Braun, J.: HyLands 1.0: a hybrid landscape evolution model to simulate the impact of landslides and landslide-derived sediment on landscape evolution, Geosci. Model Dev., 13, 3863–3886, [10.5194/gmd-13-3863-2020](https://doi.org/10.5194/gmd-13-3863-2020), 2020.
 
